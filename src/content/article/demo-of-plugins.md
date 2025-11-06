@@ -28,7 +28,7 @@ Embed Vimeo videos using the `#vimeo` shortcode:
 
 Embed Wistia videos using the `#wistia` shortcode:
 
-#wistia 123456789
+#wistia 26sk4lmiix
 
 ## Google Maps
 
@@ -59,38 +59,6 @@ Embed Asciinema terminal recordings using the `#asciinema` shortcode:
 Embed SoundCloud tracks using the `#soundcloud` shortcode:
 
 #soundcloud soundcloud.com/hasin-hayder/love-will-keep-us-alive-1
-
-## Iframe Embeds
-
-Embed any URL in an iframe using the `#iframe` shortcode:
-
-#iframe astro.build/
-
-_Note: Both URLs with and without protocols work (https:// is automatically added if missing)_
-
-## GitHub Gists
-
-Embed GitHub Gists using the `#gist` shortcode:
-
-#gist octocat/0831f3fbd83ac4d46451
-
-## Asciinema Recordings
-
-Embed Asciinema terminal recordings using the `#asciinema` shortcode:
-
-#asciinema 239367
-
-## SoundCloud Tracks
-
-Embed SoundCloud tracks using the `#soundcloud` shortcode:
-
-#soundcloud https:/soundcloud.com/royaltyfreemusic-nocopyrightmusic/preview-60-seconds-no-copyright-music-2023
-
-## Iframe Embeds
-
-Embed any URL in an iframe using the `#iframe` shortcode:
-
-#iframe astro.build/
 
 ## How It Works
 
