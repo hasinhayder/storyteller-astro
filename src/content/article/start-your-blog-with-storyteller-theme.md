@@ -12,6 +12,8 @@ large: "https://images.unsplash.com/photo-1659942256016-5de203e0481b?auto=format
 
 Ready to start your own minimal, elegant blog? The Storyteller theme for Astro makes it incredibly easy to launch a beautiful, fast-loading blog that focuses on what matters most: your content.
 
+#youtube eQXG75XirdE
+
 ## Why Choose Storyteller?
 
 Storyteller is a monochrome Astro theme designed with simplicity and performance in mind:

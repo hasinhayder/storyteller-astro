@@ -79,6 +79,10 @@
 - **Flexible Attribution**: Easy author assignment via frontmatter
 - **Multiple Authors**: Support for any number of blog contributors
 
+### 🔗 **Rich Embeds**
+
+- **Rich Embeds** — Easily embed YouTube, Vimeo, Wistia, Google Maps, PDFs, Gists, Asciinema, SoundCloud, and more using simple markdown shortcodes
+
 ---
 
 ## 🎯 Demo
@@ -440,6 +444,21 @@ export default {
 ```
 
 ---
+
+## Embedding Content
+
+You can embed rich content in your markdown using simple shortcodes:
+
+- `#youtube <id>` — Embed a YouTube video
+- `#vimeo <id>` — Embed a Vimeo video
+- `#wistia <id>` — Embed a Wistia video
+- `#googlemaps <query or url>` — Embed a Google Map
+- `#iframe <url>` — Embed any URL in an iframe
+- `#pdf <url>` — Embed a PDF
+- `#embed <url>` — Embed Notion, Figma, CodePen, etc.
+- `#gist <gist-id or gist-url>` — Embed a GitHub Gist
+- `#asciinema <id>` — Embed an Asciinema cast
+- `#soundcloud <url>` — Embed a SoundCloud track
 
 ## 📈 SEO Features
 
